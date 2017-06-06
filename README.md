@@ -1,5 +1,5 @@
-# SN File upload
-This repo contains code for SN file upload. It is developed using `AngularJS Component`.
+# Procees St File upload
+This repo contains code for Procees St file upload. It is developed using `AngularJS Component`.
 
 ## Getting Started
 ### Dependencies
